@@ -3,7 +3,7 @@
 ![Girl Who Codes](https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif)
 
 
-## 🚀 Full-Stack Developer | Creative Designer
+## 🚀 Full-Stack Developer | Webflow Designer
 
 I am a passionate Full-Stack Developer specializing in modern web and mobile application development technologies. I build scalable, user-friendly, and visually captivating digital solutions that blend functionality and aesthetics.
 
